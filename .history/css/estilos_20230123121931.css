@@ -1,0 +1,26 @@
+.fondo{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: url('./imagenes/fondo.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.cohete{
+    background-image: url("./imagenes/coheteFurioso.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 7.5vw;
+    height: 5vw;
+    position: relative;
+}
+.boo{
+    background-image: url("./imagenes/KingBoo.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 7.5vw;
+    height: 5vw;
+    position: relative;
+}
